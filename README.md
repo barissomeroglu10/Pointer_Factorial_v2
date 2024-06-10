@@ -1,1 +1,1 @@
-# Ponter_Factorial_v2
+# Pointer_Factorial_v2
